@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "648181330666",
+    "firebase_url": "https://fir-messengerdev-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-messengerdev",
+    "storage_bucket": "fir-messengerdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648181330666:android:84e1969c4c2d484d215d93",
+        "android_client_info": {
+          "package_name": "com.staskokoc.firebasemessengerdev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI8ozQNw4koAX91QC3MNLqgjbVtpJLH4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
